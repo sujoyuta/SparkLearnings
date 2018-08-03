@@ -1,0 +1,9 @@
+Spark Learnings
+
+#############starting spark locally on Mac################
+sudo vi /etc/hosts
+127.0.0.1      your_hostname
+ping $(hostname)
+corporate VPN is the villain
+sudo hostname -s 127.0.0.1
+##############starting spark locally###############
